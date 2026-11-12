@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int i = 4;
+    int i = 300;
 
     int *pi = &i;
     char *pc = (char *)&i;
